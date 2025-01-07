@@ -1,6 +1,6 @@
 # Cargar las paletas:
 
-paleta <- c( "#75215F",
+paleta <- c("#75215F",
              "#4B1B56",
              "#091925",
              "#2A3069",
