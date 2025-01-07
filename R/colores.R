@@ -1,15 +1,14 @@
 # Cargar las paletas:
 
-paleta <- c(`violeta` = "#75215F",
-            `azul` = "#091925",
-            `negrish` = "#010C1C",
-            `gris` = "#D5D5D5",
-            `azulito` = "#213951",
-            `claro` = "#2575BC",
-            `griso` = "#58595B",
-            `rosa` = "#842045",
-            `morado` = "#4B1B56",
-            `otro_azul` = "#2A3069") # Diez colores base
+paleta <- c( "#75215F",
+             "#4B1B56",
+             "#091925",
+             "#2A3069",
+             "#842045",
+             "#010C1C",
+             "#D5D5D5",
+             "#213951",
+             "#58595B") # Nueve colores base
 
 obtener_paleta <- function() {
   return(paleta)
@@ -25,6 +24,6 @@ obtener_paleta <- function() {
   return(paleta)
 }
 
+
 obtener_paleta()
 
-devtools::install()
