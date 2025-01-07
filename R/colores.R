@@ -10,10 +10,6 @@ paleta <- c( "#75215F",
              "#213951",
              "#58595B") # Nueve colores base
 
-obtener_paleta <- function() {
-  return(paleta)
-}
-
 #' Obtener la paleta de colores
 #'
 #' Esta función devuelve una paleta de colores predefinidos.
@@ -24,6 +20,4 @@ obtener_paleta <- function() {
   return(paleta)
 }
 
-
-obtener_paleta()
 
