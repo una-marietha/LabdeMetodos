@@ -2,10 +2,10 @@ Package: labdem.palette
 Title: Paleta de colores del LabdeMétodos de la FLACSO México
 Version: 0.0.1
 Authors@R: 
-    Marietha PA
+    person("Marietha", "PA", email = "marietha.perez@gmail.com", role = c("aut", "cre"))
+
 Description: Homologa los colores para viz de publicaciones en el LabdeM.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: GPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
