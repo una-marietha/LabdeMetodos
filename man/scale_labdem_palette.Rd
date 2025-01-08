@@ -2,7 +2,8 @@
 % Please edit documentation in R/colores.R
 \name{scale_labdem_palette}
 \alias{scale_labdem_palette}
-\title{Paleta de colores personalizada para ggplot}
+\title{Paleta de colores personalizada para ggplot
+Función para variables discretas}
 \usage{
 scale_labdem_palette()
 }
@@ -11,4 +12,5 @@ scale_color_manual para usar con ggplot2.
 }
 \description{
 Paleta de colores personalizada para ggplot
+Función para variables discretas
 }
